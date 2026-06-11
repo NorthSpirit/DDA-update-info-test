@@ -1,13 +1,13 @@
 {
   "desktop": {
     "version": "0.0.10",
-    "releaseDate": "2025-06-11",
+    "releaseDate": "2026-06-11",
     "description": "Made it easier to receive newest version and get version info.",
     "downloadUrl": "https://github.com/NorthSpirit/android_desktop_monorep/releases/download/v0.0.10/DDAInstaller.exe"
   },
   "android": {
     "version": "0.0.7",
-    "releaseDate": "2025-06-06", 
+    "releaseDate": "2026-06-06", 
     "description": "Added ability to send call events to the desktop real-time",
     "downloadUrl": "https://github.com/NorthSpirit/android_desktop_monorep/releases/download/Android0.0.7/app-release.apk"
   }
